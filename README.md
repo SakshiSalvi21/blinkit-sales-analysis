@@ -28,7 +28,6 @@ Built using **Power Query**, **DAX**, and clean **UX** practices. Inspired by th
 blinkit-powerbi-dashboard/
 ├─ pbix/
 │  └─ Blinkit Sales Dashboard.pbix
-├─ .gitignore
 ├─ LICENSE
 └─ README.md
 ```
