@@ -19,8 +19,8 @@ Built using **Power Query**, **DAX**, and clean **UX** practices. Inspired by th
 - DAX
 
 ## 🧱 Data Model (at a glance)
-- Star-schema style model with **Fact** table (sales/orders) and **Dimensions** (date, product, outlet, region)
-- DAX measures for KPIs, YoY, and averages
+- Star-schema style model with **Fact** table (sales/orders) and **Dimensions** (product, outlet, location)
+- DAX measures for KPIs, and averages
 - Slicer-driven navigation and drill-through
 
 ## 📁 Repository Structure
