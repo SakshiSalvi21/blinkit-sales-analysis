@@ -8,7 +8,7 @@ Built using **Power Query**, **DAX**, and clean **UX** practices. Inspired by th
 
 ## ✨ Features
 - KPI cards for **Total Sales, Orders, Rating**
-- Interactivity via **slicers** (Region, Outlet Type, Year) and **visual/page/report-level filters**
+- Interactivity via **slicers** (Location, Outlet Size, Item Type) and **visual/page/report-level filters**
 - Category and outlet performance with drill-through to detail views
 - Consistent color theme and layout for business-friendly presentation
 - Ready for publishing to **Power BI Service**
